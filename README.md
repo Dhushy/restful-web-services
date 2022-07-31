@@ -1,4 +1,4 @@
-##restful-web-services
+# restful-web-services
 ##Introduction
 This project includes solutions for problems solving questions in below category.
 
@@ -7,8 +7,8 @@ This project includes solutions for problems solving questions in below category
 * Fibonacci
 * Coin Change
 
-##Installation Guides
-###Used Tools
+## Installation Guides
+### Used Tools
 * Eclipse IDE for Java Developers - 2022-06 (4.24.0)
 * Java 8
 * pmd-eclipse-plugin 4.37.0 
